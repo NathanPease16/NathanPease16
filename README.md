@@ -1,5 +1,7 @@
 Game Developer (sometimes) <br>
 [itch page](https://creeperbob16.itch.io/)<br><br>
+
+He/Him
 <!--
 **NathanPease16/NathanPease16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
