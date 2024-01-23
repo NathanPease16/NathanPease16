@@ -2,7 +2,7 @@ He/Him
 
 Game Developer (sometimes) <br>
 [itch page](https://creeperbob16.itch.io/)<br><br>
-Use [Flexi](https://github.com/NathanPease16/Flexi) please
+[Flexi](https://github.com/NathanPease16/Flexi)
 <!--
 **NathanPease16/NathanPease16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
