@@ -4,6 +4,8 @@ Computer Sciences student at the University of Wisconsin-Madison.
 
 I'm passionate about systems programming, gameplay engineering, and building reusable software infrastructure.
 
+### Check out my [itch.io page!](creeperbob16.itch.io)
+
 ## Featured Projects
 
 ### Branch Dialogue DSL
